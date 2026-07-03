@@ -105,36 +105,6 @@ Models were evaluated using:
 
 The highest accuracy model was saved and used for deployment.
 
----
-
-## 💻 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/customer_churn_prediction_system.git
-
-cd customer_churn_prediction_system
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-After running the command, the application will open in your browser.
-
----
-
 ## 📱 Application Screens
 
 The Streamlit application allows users to:
